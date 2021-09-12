@@ -1,1 +1,1 @@
-# Ce projet ne nécessite seulement que python pour être lancé.
+# Ce projet ne nécessite que python pour être lancé.
